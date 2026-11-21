@@ -1,4 +1,3 @@
-[cartesian_captains_google_sites_embed.txt](https://github.com/user-attachments/files/35214951/cartesian_captains_google_sites_embed.txt)
 # Ms-Q-s-maths-games.github.io
 Cartesian Captains of Translation and Reflection
 <style>
