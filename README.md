@@ -1,2 +1,95 @@
+[cartesian_captains_google_sites_embed.txt](https://github.com/user-attachments/files/35214951/cartesian_captains_google_sites_embed.txt)
 # Ms-Q-s-maths-games.github.io
 Cartesian Captains of Translation and Reflection
+<style>
+:root{--navy:#192957;--blue:#2f6da8;--sky:#e5f4ff;--soft:#f4fbff;--aqua:#c6eaff;--purple:#a796d4;--green:#178060;--gold:#ffce59;--red:#c75060}*{box-sizing:border-box}body{margin:0;background:linear-gradient(160deg,#d4efff,#f7fcff 60%,#e4f5ff);font:16px/1.5 'Trebuchet MS',Arial,sans-serif;color:var(--navy)}button,select{font:inherit}button{cursor:pointer;border:0;border-radius:13px;padding:11px 17px;font-weight:800;background:var(--blue);color:white}button:focus-visible,input:focus-visible{outline:3px solid #e6a900;outline-offset:3px}button:disabled{opacity:.5;cursor:not-allowed}.secondary{background:#e2f3ff;color:var(--navy);border:1px solid #a2cef1}.small{font-size:13px;padding:8px 11px}.shell{max-width:1200px;margin:auto;padding:22px}.hero{background:linear-gradient(115deg,#21568d,#377bb3);color:white;border-radius:25px;padding:19px 25px;display:flex;align-items:center;justify-content:space-between;gap:15px;box-shadow:0 8px 0 #aadfff}.hero h1{font-size:clamp(26px,4vw,44px);margin:0}.hero p{margin:1px 0 0}.hero .sail{font-size:52px}.nav{display:flex;flex-wrap:wrap;gap:10px;margin:23px 0}.pill{background:white;border:2px solid #b4dbf5;color:var(--navy);flex:1;min-width:175px;text-align:left}.pill.active{background:#d2edff;border-color:#2477b8;box-shadow:inset 0 0 0 1px #2477b8}.pill small{display:block;font-weight:normal}.layout{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(315px,.75fr);gap:20px}.panel{background:#fff;border:2px solid #bbdff7;border-radius:23px;padding:19px;box-shadow:0 5px 0 #d7ebf9}.intro{background:#edf8ff;padding:10px 13px;border-radius:12px}.scorebar{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;font-weight:800}.progress{height:12px;background:#dbefff;border-radius:20px;overflow:hidden;margin:12px 0 16px}.progress div{height:100%;background:#4aa7df;transition:width .25s}.mission{font-size:23px;margin:0 0 7px}.instructions{margin:0 0 12px}.coords{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}.coord{padding:5px 8px;background:#eaf5ff;border-radius:9px;font-weight:bold;font-size:13px}.canvasbox{background:var(--soft);border:2px solid #d7eafb;border-radius:16px;padding:8px;overflow:hidden}svg{display:block;width:100%;max-height:570px;touch-action:manipulation}.gridpoint{cursor:pointer}.gridpoint:hover{fill:#7dbff5;opacity:.6}.controls{display:flex;flex-wrap:wrap;gap:8px;margin-top:13px}.feedback{margin-top:13px;padding:12px 14px;border-radius:13px;min-height:54px;background:#edf8ff;border-left:5px solid #68afe1}.feedback.good{background:#e3f9ef;border-color:#23a475}.feedback.bad{background:#fff1eb;border-color:#e59b58}.hint{background:#fff8dc;border-left:4px solid #e1ba34;padding:9px 12px;border-radius:10px;margin-top:10px}.choices{display:grid;gap:8px;margin:12px 0}.choice{background:#f2f9ff;color:var(--navy);border:2px solid #b5daf1;text-align:left}.choice.picked{background:#d6eeff;border-color:#317ab7}.choice.correct{background:#e3f9ef;border-color:#2b9e74}.choice.wrong{background:#fff1e8;border-color:#d77c4f}.legend{font-size:13px;color:#405773;margin-top:9px}.tag{display:inline-block;background:#e3e9ff;border-radius:9px;padding:3px 9px;font-size:12px;font-weight:bold}.steps{padding-left:21px}.steps li{margin-bottom:8px}.teacher{margin-top:18px;font-size:14px}.teacher summary{cursor:pointer;font-weight:800}.footer{font-size:13px;color:#546984;text-align:center;margin:22px auto}.hide{display:none}.nextunlock{animation:pulse 1s 2}@keyframes pulse{50%{transform:scale(1.03)}}@media(max-width:850px){.layout{grid-template-columns:1fr}.shell{padding:10px}.panel{padding:12px}.hero{padding:16px}}
+.shell{max-width:800px;padding:14px}.hero{padding:13px 20px;border-radius:19px;box-shadow:0 5px 0 #aadfff}.hero h1{font-size:clamp(23px,5vw,34px)}.hero p{font-size:14px}.hero .sail{font-size:34px}.nav{margin:14px 0;gap:8px}.pill{min-width:0;font-size:16px;padding:10px;flex:1;text-align:center}.pill small{font-size:12px}.panel{padding:16px;border-radius:18px}.mission{font-size:23px;margin:6px 0}.instructions{font-weight:700;font-size:20px;line-height:1.35;margin:0 0 10px}.coords{margin-bottom:7px}.coord{font-size:14px}.canvasbox{max-width:570px;margin:auto}.legend{display:flex;justify-content:center;gap:15px;flex-wrap:wrap;font-size:12px}.controls{display:flex;justify-content:center}.controls button{padding:10px 14px}.feedback{min-height:40px;padding:9px 11px;font-size:15px}.hint{font-size:15px}.choices{grid-template-columns:1fr 1fr}footer{display:flex;justify-content:space-between;align-items:center;margin:12px 4px;color:#546984;font-size:13px}@media(max-width:600px){.shell{padding:7px}.hero{padding:12px}.panel{padding:10px}.pill{font-size:13px;padding:8px 4px}.pill small{font-size:10px}.mission{font-size:20px}.instructions{font-size:18px}.controls{gap:6px}.controls button{padding:9px 11px;font-size:13px}.coords{gap:4px}.coord{font-size:12px}.legend{gap:7px}} </style>
+<div class="shell"><header class="hero"><div><h1>⛵ Cartesian Captains</h1><p>Slide • Flip • Reach the dock!</p></div><span aria-hidden="true" class="sail">⚓</span></header>
+<nav aria-label="Choose level" class="nav" id="pathnav"></nav>
+<main class="panel"><div class="scorebar"><span id="missioncount"></span><span id="score"></span><span class="tag" id="status"></span></div><div class="progress"><div id="progressfill"></div></div>
+<h2 class="mission" id="title"></h2><p class="instructions" id="prompt"></p><div class="coords" id="originals"></div>
+<div class="canvasbox"><svg aria-label="Cartesian plane; click the grid to plot vertices" id="chart" role="img" viewbox="0 0 600 600"></svg></div>
+<div class="legend"><span>🔵 Start</span><span>🟣 Yours</span><span>🟢 Answer</span><span>🟡 Mirror</span></div>
+<div class="choices hide" id="choices"></div>
+<div class="controls"><button class="secondary" id="undo">↶ Undo</button><button class="secondary" id="clear">↻ Reset</button><button class="secondary" id="hint">💡 Hint</button><button id="check">✓ Check</button><button disabled="" id="next">Next →</button></div>
+<div class="hint hide" id="hintbox"></div><div aria-live="polite" class="feedback" id="feedback" role="status">Tap A′, B′, C′ on the grid.</div>
+</main><footer><span>Try • Check • Try again</span><button class="secondary small" id="restart">New questions ↻</button></footer></div><script>
+const P=[{id:'helper',name:'🌱 Level 1',sub:'Help',info:''},{id:'sailor',name:'⛵ Level 2',sub:'Explore',info:''},{id:'navigator',name:'🚀 Level 3',sub:'Challenge',info:''}];
+// A fresh five-question voyage is created at the start of each level.
+const baseShapes=[[[0,2],[-2,-2],[2,-2]],[[0,0],[2,0],[1,2]],[[-2,0],[1,0],[0,2]],[[0,0],[3,0],[1,2]],[[0,1],[2,1],[1,3]]];
+const rand=(a,b)=>Math.floor(Math.random()*(b-a+1))+a;
+const sample=a=>a[rand(0,a.length-1)];
+function shuffle(a){for(let i=a.length-1;i>0;i--){let j=rand(0,i);[a[i],a[j]]=[a[j],a[i]]}return a}
+function moveText(dx,dy){return [dx?`${Math.abs(dx)} ${dx>0?'right':'left'}`:'',dy?`${Math.abs(dy)} ${dy>0?'up':'down'}`:''].filter(Boolean).join(', then ')}
+function randomShape(ops,positive=false){
+  // Check every intermediate position as well as the final image.
+  for(let attempt=0;attempt<500;attempt++){
+    let b=sample(baseShapes),ox=rand(positive?0:-3,positive?3:3),oy=rand(positive?0:-3,positive?3:3);
+    let shape=b.map(([x,y])=>[x+ox,y+oy]),current=shape,valid=shape.every(([x,y])=>x>=-6&&x<=6&&y>=-6&&y<=6);
+    if(!valid)continue;
+    for(let op of ops){current=apply(current,[op]);if(!current.every(([x,y])=>x>=-6&&x<=6&&y>=-6&&y<=6)){valid=false;break}}
+    if(valid&&shape.some((p,i)=>p[0]!==current[i][0]||p[1]!==current[i][1]))return shape;
+  }
+  return [[-2,-2],[0,-2],[-1,0]];
+}
+function plotMission(title,q,ops,hint,positive=false){return {title,q,shape:randomShape(ops,positive),ops,hint}}
+function choiceMission(title,q,answers,correctText,hint){let opts=shuffle([...answers]);return {title,q,type:'choice',answers:opts,correct:opts.indexOf(correctText),hint,shape:randomShape([],true),ops:[]}}
+function buildMissions(){
+ let right=rand(1,4),up=rand(1,3),dir=sample([-1,1]),v=rand(1,3)*dir;
+ let easy=[
+  choiceMission('Slide, flip or turn?',sample(['A shape slides without turning. What is it?','A shape flips over a mirror line. What is it?','A shape turns around a fixed point. What is it?']),['Translation','Reflection','Rotation','Resizing'], 'Translation','Think about how a shape changes position.'),
+  plotMission('Slide across',`Move ABC ${right} right.`,[['move',right,0]],'Right: change x.',true),
+  plotMission('Up or down',`Move ABC ${Math.abs(v)} ${v>0?'up':'down'}.`,[['move',0,v]],'Vertical moves change y.',true),
+  plotMission('Mirror time',`Reflect ABC across the ${sample(['y-axis','x-axis'])}.`,[], 'Points must stay the same distance from the mirror.'),
+  choiceMission('Same shape?',sample(['After a translation, what stays the same?','After a reflection, what stays the same?']),['Side lengths and angles','Position','Direction it faces','Every coordinate'],'Side lengths and angles','Imagine tracing the original shape.')
+ ];
+ // Fix the mirror task so the displayed axis and actual operation always match.
+ let easyAxis=sample(['x','y']);easy[3]=plotMission('Mirror time',`Reflect ABC across the ${easyAxis}-axis.`,[[easyAxis==='x'?'mirrorY':'mirrorX',0]],'Count equal squares from the mirror.',false);
+ // The identification question must always match its actual action.
+ let action=sample([{q:'A shape slides without turning. What is it?',a:'Translation'},{q:'A shape flips over a mirror line. What is it?',a:'Reflection'},{q:'A shape turns around a fixed point. What is it?',a:'Rotation'}]);
+ easy[0]=choiceMission('Slide, flip or turn?',action.q,['Translation','Reflection','Rotation','Resizing'],action.a,'Look for a slide, flip or turn.');
+ let dx=sample([-4,-3,-2,2,3,4]),dy=sample([-3,-2,2,3]),axis=sample(['x','y']);
+ let initial=rand(-4,4),shift=rand(1,3);
+ let core=[
+  plotMission('Translate',`Move ABC ${Math.abs(dx)} ${dx>0?'right':'left'}.`,[['move',dx,0]],'Horizontal moves change x.'),
+  plotMission('Reflect',`Reflect ABC across the ${axis}-axis.`,[[axis==='x'?'mirrorY':'mirrorX',0]],'Keep each point equally far from the axis.'),
+  plotMission('Another mirror',`Reflect ABC across the ${axis==='x'?'y':'x'}-axis.`,[[axis==='x'?'mirrorX':'mirrorY',0]],'Find the coordinate that changes sign.'),
+  plotMission('Two moves',`Move ${Math.abs(dx)} ${dx>0?'right':'left'}, then ${Math.abs(dy)} ${dy>0?'up':'down'}.`,[['move',dx,0],['move',0,dy]],'Move each vertex twice.'),
+  choiceMission('Choose the move',`P(${initial}, ${shift}) → P′(${initial}, ${-shift}). Which move?`,['Reflect across x-axis','Reflect across y-axis','Translate right','Translate up'],'Reflect across x-axis','Look at which coordinate changes sign.')
+ ];
+ let extra=sample([-2,-1,1,2]),offset=sample([-2,-1,1,2]),one=sample(['x','y']);
+ let hard=[
+  plotMission('Mirror, then slide',`Reflect across the ${one}-axis, then ${Math.abs(extra)} ${extra>0?'right':'left'}.`,[[one==='x'?'mirrorY':'mirrorX',0],['move',extra,0]],'Do the reflection first.'),
+  plotMission('Double mirror',`Reflect across the ${sample(['x-axis, then y-axis','y-axis, then x-axis'])}.`,[['mirrorY',0],['mirrorX',0]],'Reflect each point twice.'),
+  plotMission('New mirror line',`Reflect ABC across ${one==='x'?'y':'x'} = ${offset}.`,[[one==='x'?'mirrorY':'mirrorX',offset]],'Count from the dashed line.'),
+  plotMission('Three-step voyage',`Move 2 up → reflect across y-axis → ${Math.abs(extra)} ${extra>0?'right':'left'}.`,[['move',0,2],['mirrorX',0],['move',extra,0]],'Complete the steps in order.'),
+  choiceMission('Captain’s challenge',`P(${extra}, ${offset}) → P′(${-extra}, ${-offset}). Which pair of moves works?`,['Reflect across both axes','Reflect across x-axis only','Reflect across y-axis only','Translate 2 up'],'Reflect across both axes','Consider both coordinate signs.')
+ ];
+ return {helper:easy,sailor:core,navigator:hard}
+}
+let missions={}, previousVoyage={};
+function newVoyage(level){
+  let next,signature;
+  for(let attempts=0;attempts<30;attempts++){
+    next=buildMissions()[level];
+    signature=JSON.stringify(next.map(t=>[t.q,t.shape,t.answers]));
+    if(signature!==previousVoyage[level])break;
+  }
+  previousVoyage[level]=signature;missions[level]=next;
+}
+let route='helper',index=0,plots=[],picked=null,solved=false,stars=0,tries=0,hintUsed=false;
+const $=id=>document.getElementById(id);const L='http://www.w3.org/2000/svg';const svg=(tag,attrs={},parent=$('chart'))=>{let n=document.createElementNS(L,tag);Object.entries(attrs).forEach(([k,v])=>n.setAttribute(k,v));parent.appendChild(n);return n};const text=(x,y,t,fill='#192957',size=15,parent=$('chart'))=>{let n=svg('text',{x,y,fill,'font-size':size,'font-weight':'bold','text-anchor':'middle','paint-order':'stroke','stroke':'#f4fbff','stroke-width':3},parent);n.textContent=t;return n};
+function apply(p,ops){return ops.reduce((v,op)=>v.map(([x,y])=>op[0]==='move'?[x+op[1],y+op[2]]:op[0]==='mirrorX'?[2*op[1]-x,y]:[x,2*op[1]-y]),p.map(a=>[...a]))}function task(){return missions[route][index]}const inside=([x,y])=>x>=-7&&x<=7&&y>=-7&&y<=7;const cx=x=>300+x*36,cy=y=>300-y*36;
+function draw(){let t=task(),v=$('chart');v.innerHTML='';svg('rect',{x:0,y:0,width:600,height:600,rx:20,fill:'#f3fbff'});for(let n=-7;n<=7;n++){svg('line',{x1:cx(n),y1:cx(-7),x2:cx(n),y2:cy(7),stroke:n===0?'#233f72':'#c6e3f5','stroke-width':n===0?3:1});svg('line',{x1:cx(-7),y1:cy(n),x2:cx(7),y2:cy(n),stroke:n===0?'#233f72':'#c6e3f5','stroke-width':n===0?3:1});if(n!==0){text(cx(n),315,String(n),'#506d91',12);text(285,cy(n)+4,String(n),'#506d91',12)}}text(567,292,'x');text(311,35,'y');text(286,316,'0','#506d91',11);
+(t.ops||[]).forEach(op=>{if(op[0].startsWith('mirror')){let vert=op[0]==='mirrorX',c=vert?cx(op[1]):cy(op[1]);svg('line',vert?{x1:c,y1:35,x2:c,y2:565,stroke:'#dfa728','stroke-width':5,'stroke-dasharray':'12,9'}:{x1:35,y1:c,x2:565,y2:c,stroke:'#dfa728','stroke-width':5,'stroke-dasharray':'12,9'});text(vert?c+30:70,vert?45:c-12,(vert?'x = ':'y = ')+op[1],'#996900',15)}});
+function polygon(ps,fill,stroke,opacity=.6,dash=''){svg('polygon',{points:ps.map(p=>cx(p[0])+','+cy(p[1])).join(' '),fill,stroke,'stroke-width':3,'fill-opacity':opacity,'stroke-dasharray':dash})}
+polygon(t.shape,'#5cabea','#276aa7',.28);t.shape.forEach((p,i)=>{svg('circle',{cx:cx(p[0]),cy:cy(p[1]),r:6,fill:'#2d7dbb'});text(cx(p[0])-13,cy(p[1])-12,'ABC'[i], '#245686',17)});
+if(solved&&t.type!=='choice'){let ans=apply(t.shape,t.ops);polygon(ans,'#3ec994','#16865e',.3);ans.forEach((p,i)=>{svg('circle',{cx:cx(p[0]),cy:cy(p[1]),r:7,fill:'#16865e'});text(cx(p[0])+15,cy(p[1])-12,'ABC'[i]+'′','#167351',16)})}
+if(plots.length){plots.forEach((p,i)=>{svg('circle',{cx:cx(p[0]),cy:cy(p[1]),r:8,fill:'#9570cc',stroke:'#fff','stroke-width':2});text(cx(p[0])+17,cy(p[1])+17,'ABC'[i]+'′','#6947a1',16)});if(plots.length===3)polygon(plots,'#cbb4f2','#8b6dbb',.18,'6,5')}
+if(!solved&&t.type!=='choice'){for(let x=-7;x<=7;x++)for(let y=-7;y<=7;y++)svg('circle',{cx:cx(x),cy:cy(y),r:11,fill:'transparent',class:'gridpoint','data-x':x,'data-y':y})}}
+function selectPath(p){route=p;index=0;stars=0;newVoyage(route);render(true)}function render(reset){if(reset!==false){plots=[];picked=null;solved=false;tries=0;hintUsed=false}let t=task();$('pathnav').innerHTML=P.map(p=>`<button class="pill ${p.id===route?'active':''}" data-route="${p.id}" aria-pressed="${p.id===route}">${p.name}<small>${p.sub}</small></button>`).join('');document.querySelectorAll('[data-route]').forEach(b=>b.onclick=()=>selectPath(b.dataset.route));$('missioncount').textContent=`Mission ${index+1} of ${missions[route].length}`;$('score').textContent=`⭐ ${stars} stars`;$('status').textContent=route==='helper'?'Easy':route==='sailor'?'Medium':'Hard';$('progressfill').style.width=(index/missions[route].length*100)+'%';$('title').textContent=t.title;$('prompt').textContent=t.q;$('originals').innerHTML=t.shape.map((p,i)=>`<span class="coord">${'ABC'[i]} = (${p[0]}, ${p[1]})</span>`).join('');$('choices').classList.toggle('hide',t.type!=='choice');$('choices').innerHTML=t.type==='choice'?t.answers.map((a,i)=>`<button class="choice" data-choice="${i}">${'ABCD'[i]}. ${a}</button>`).join(''):'';document.querySelectorAll('[data-choice]').forEach(b=>b.onclick=()=>{if(solved)return;picked=Number(b.dataset.choice);document.querySelectorAll('[data-choice]').forEach(c=>c.classList.toggle('picked',c===b))});$('undo').disabled=t.type==='choice';$('clear').disabled=t.type==='choice';$('hintbox').classList.add('hide');$('hintbox').textContent='';$('next').disabled=true;$('next').textContent=index===missions[route].length-1?'Finish ✓':'Next →';feedback(t.type==='choice'?'Choose an answer.':'Tap A′, B′, C′.','');draw()}
+function feedback(msg,cls){$('feedback').textContent=msg;$('feedback').className='feedback '+cls}
+$('chart').addEventListener('click',e=>{if(solved||task().type==='choice')return;let n=e.target.closest('[data-x]');if(!n||plots.length>=3)return;plots.push([+n.dataset.x,+n.dataset.y]);draw();feedback(`${'ABC'[plots.length-1]}′ = (${n.dataset.x}, ${n.dataset.y}) ${plots.length<3?'• Next point':'• Check!'}`,'')});$('undo').onclick=()=>{if(!solved){plots.pop();draw();feedback('Point undone.','')}};$('clear').onclick=()=>{if(!solved){plots=[];draw();feedback('Try again.','')}};$('hint').onclick=()=>{hintUsed=true;$('hintbox').textContent=task().hint;$('hintbox').classList.remove('hide')};
+$('check').onclick=()=>{let t=task();if(solved)return;let correct;if(t.type==='choice'){if(picked===null){feedback('Choose an answer.','bad');return}correct=picked===t.correct;document.querySelectorAll('[data-choice]').forEach(b=>{let j=+b.dataset.choice;if(correct||tries>=1)b.classList.toggle('correct',j===t.correct);if(j===picked&&!correct)b.classList.add('wrong')})}else{if(plots.length!==3){feedback('Plot 3 points first.','bad');return}let ans=apply(t.shape,t.ops);correct=plots.every((p,i)=>p[0]===ans[i][0]&&p[1]===ans[i][1])}tries++;if(correct){solved=true;let earn=hintUsed?1:tries===1?3:2;stars+=earn;$('score').textContent=`⭐ ${stars} stars`;$('next').disabled=false;$('next').classList.add('nextunlock');let ans=apply(t.shape,t.ops||[]);feedback(`⭐ Great! ${t.type==='choice'?'':ans.map((p,i)=>'ABC'[i]+'′('+p.join(', ')+')').join(' • ')}`,'good');draw()}else{let msg=t.type==='choice'?'Try again. Use a hint if needed.':'Try again. Check each point.';feedback(msg,'bad')}};
+$('next').onclick=()=>{if(!solved)return;if(index<missions[route].length-1){index++;render(true)}else{let earned=stars;index=0;newVoyage(route);stars=0;render(true);feedback(`🏆 Finished! ${earned} stars. New questions ready!`,'good')}};$('restart').onclick=()=>{index=0;stars=0;newVoyage(route);render(true);feedback('✨ New questions!','good')};newVoyage(route);render(true);
+</script>
